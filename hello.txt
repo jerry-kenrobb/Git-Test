@@ -1,1 +1,2 @@
 hello Git,Today is my first day of study!
+Today is my second day to learn Git!
