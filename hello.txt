@@ -1,6 +1,7 @@
 hello Git,Today is my first day of study!
-Today is my second day to learn Git!
+Today is my second day to learn Git !
 ***** master update!
 **** hot-fix update!
 ********************
 jerry-xxxtentacion update!
+update this file by SSH protocol!
